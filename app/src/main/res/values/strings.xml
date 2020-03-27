@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentProf</string>
+    <string name="cal">Calculator</string>
+    <string name="custom_toast">Custom Toast</string>
+    <string name="number2">Number 2</string>
+    <string name="number1">Number 1</string>
+    <string name="custom_tost_image">helloWorld</string>
+</resources>
